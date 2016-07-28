@@ -13,7 +13,7 @@
 
 | Field Name | Data Type|
 | -----------|----------|
-| id         | Integer  |
+| id         | Increment  |
 | username   | String   |
 | password   | String   |
 | email      | String   |
@@ -22,7 +22,7 @@
 
 | Field Name   | Data Type |
 |--------------|-----------|
-| id           | Integer   |
+| id           | Increment   |
 | user_id      | Integer   |
 | date_time    | Timestamp |
 | location^    | String    |
@@ -39,6 +39,6 @@
 
 | Field Name | Data Type |
 |------------|-----------|
-| id         | Integer   |
+| id         | Increment   |
 | game_id    | Integer   |
 | comment    | String    |
