@@ -5,6 +5,7 @@
 - Postgres
 - Flexbox
 - Sockets
+- Stress Management
 
 ## Michael
 
@@ -12,6 +13,7 @@
 - Redux
 - SASS
 - Auth
+- Fun
 
 ## Rena
 
@@ -32,6 +34,8 @@
 - Sockets
 - Layout
 - Flexbox
+- Joy
+- World Peace
 
 ## George
 
@@ -50,6 +54,7 @@
 - Testing
 - Sockets
 - Flexbox
+- Shortcuts
 
 ## Daniel
 
@@ -57,3 +62,6 @@
 - Testing
 - Sockets => Database
 - SASS
+- Fun
+- Teamwork
+- Atom
