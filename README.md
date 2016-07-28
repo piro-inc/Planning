@@ -14,3 +14,7 @@ Wireframing 2pm-3pm
 -layout
 
 Project scaffold
+
+Sprints:
+Sprint 1 - MVP
+Sprint 2 - Additional Features
