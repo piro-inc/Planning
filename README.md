@@ -1,20 +1,21 @@
-Planning Day 1
+#Planning
 
-Project Overview: 11 - 11.30am
-- Define product
-- User Stories
-- MVP
-- Additional Features
+Project overview, user stories, wireframes, team plans...
 
-Learning Objectives 11.30-11.45am
-Technologies 
+##Project Description
 
-Wireframing 2pm-3pm
--design 
--layout
+Piro is a scoring app for grassroots sports teams.
 
-Project scaffold
+##Team Roles
 
-Sprints:
-Sprint 1 - MVP
-Sprint 2 - Additional Features
+- Product Owner: Rena
+- Project Manager: George
+
+##Typical Day
+
+- Hours are 9am - 9pm (weekend 10am start)
+- 9am standup retrospective
+- Mid-morning break
+- 1 - 2pm lunch
+- After 5pm standup - 5.30pm break / naptime
+- Dinner break 7pm
