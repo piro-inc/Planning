@@ -25,7 +25,7 @@
 | id           | Integer   |
 | user_id      | Integer   |
 | date_time    | Timestamp |
-| location^    | String    |
+| location     | String    |
 | team_a_name  | String    |
 | team_b_name  | String    |
 | is_complete  | Boolean   |
