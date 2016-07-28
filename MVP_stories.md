@@ -18,7 +18,7 @@
 <h2>Viewer</h2>
 <h3>As a viewer I can:</h3>
 <li>view details of individual games</li>
-</li>view games summary</li>
+<li>view games summary</li>
 <li>view across different devices</li>
 <li>filter out sports, team, location</li>
 
