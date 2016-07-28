@@ -24,7 +24,7 @@
 |--------------|-----------|
 | id           | Integer   |
 | user_id      | Integer   |
-| date / time  | Timestamp |
+| date_time    | Timestamp |
 | location^    | String    |
 | team_a_name  | String    |
 | team_b_name  | String    |
