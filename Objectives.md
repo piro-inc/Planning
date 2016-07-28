@@ -1,3 +1,5 @@
+# Learning Objectives
+
 ## Rich
 
 - React
@@ -45,6 +47,7 @@
 - Teamwork/Team Building
 - SASS
 - Sockets
+- Cordova
 
 ## Marcus
 
@@ -55,6 +58,7 @@
 - Sockets
 - Flexbox
 - Shortcuts
+- Electron
 
 ## Daniel
 
@@ -65,3 +69,4 @@
 - Fun
 - Teamwork
 - Atom
+- Cordova
