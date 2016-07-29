@@ -13,9 +13,8 @@ Dispatch form data:
 - email
 - password
 
-### Registor
-The create new user form. Subcomponent
-
+### Register
+The create new user form. SubcomponentR
 Dispatch form data:
 - email
 - userName
